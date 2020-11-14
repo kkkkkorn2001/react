@@ -1,0 +1,21 @@
+.v_tree {
+    width: 1000px;
+    height: 1000px;
+    background-color: #ffffff;
+    overflow: scroll;
+}
+.photo{
+    width: 600px;
+    height:  600px;
+    object-fit: contain;
+}
+.site-layout-background{
+    width: 2000px;
+    height: 900px;
+    background-color: #ffffff;
+    overflow: scroll; 
+}
+.button{
+    width: 100px;
+    height: 40px;
+}
